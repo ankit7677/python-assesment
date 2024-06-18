@@ -1,0 +1,9 @@
+{
+	"name": "ADF-ShoppindDataDev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b3607ca-a366-48ad-a8b0-2529e523b2e4",
+		"tenantId": "4377119d-3140-448b-a07e-002cf8b7c0b0"
+	}
+}
